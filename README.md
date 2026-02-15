@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">I’m Marcos Melo, a student of Systems Analysis and Development, focused on Back-end Java development.</p>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marcosmelodev&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
